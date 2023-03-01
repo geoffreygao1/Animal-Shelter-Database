@@ -3,9 +3,9 @@ namespace AnimalShelter.Models
   public class Animal
   {
     public int AnimalId { get; set; }
-    public string type { get; set; }
-    public string name { get; set; }
-    public string dateAdmitted { get; set; }
-    public string breed { get; set; }
+    public string Type { get; set; }
+    public string Name { get; set; }
+    public string DateAdmitted { get; set; }
+    public string Breed { get; set; }
   }
 }
