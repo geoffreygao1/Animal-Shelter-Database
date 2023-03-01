@@ -15,6 +15,10 @@
 
 _This application contains a website that allows a user to track animals in a shelter. The application contains functionality to add, view, and delete animal and properties. The project demonstrates solid understanding of the new concepts from the Database Basics section including  C#, MySQL, and Entity Core Framework._
 
+## Database Setup
+
+_Follow the instructions in the LearnHowToProgram.com lesson ["Creating a Test Database: Exporting and Importing Databases with MySQL Workbench"](https://www.learnhowtoprogram.com/c-and-net-part-time/database-basics/introduction-to-mysql-workbench-creating-a-database) to use the `animal_shelter_dump.sql` file located at the top level of this repo to create a new database in MySQL Workbench with the name `animal_shelter`_
+
 ## Setup/Installation Requirements
 
 * _Clone this repository_
